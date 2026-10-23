@@ -1,0 +1,263 @@
+{
+  "meta": {
+    "brand": "Veltriq Capital",
+    "reportingPeriod": "03 Jan 2021 \u2013 02 Oct 2026",
+    "source": "User-provided workbook: Sheet1 and Annual & Monthly PnL",
+    "portfolioScope": "Combined results pooled across four strategies",
+    "currency": "Unconfirmed; values are account-currency units",
+    "resultType": "Workbook-reported results; whether backtest, simulated, or live is not established by the workbook",
+    "annual2026Note": "2026 is year-to-date through 2 October 2026; it is not a completed year."
+  },
+  "statistics": {
+    "totalTrades": 8788.0,
+    "netProfit": 64783.635023,
+    "grossProfit": 347412.547069,
+    "grossLoss": -282628.912046,
+    "annualisedNetProfit": 11283.8448698859,
+    "profitFactor": 1.2292180037563,
+    "expectancy": 7.37182920152481,
+    "winRatePct": 56.6681838871188,
+    "winningTrades": 4980.0,
+    "losingTrades": 3808.0,
+    "averageWin": 69.7615556363454,
+    "averageLoss": -74.2197773230042,
+    "payoffRatio": 0.939932160302009,
+    "largestWin": 6264.48,
+    "largestLoss": -1362.6152,
+    "maxConsecutiveWins": 46.0,
+    "maxConsecutiveLosses": 43.0,
+    "averageHoldingHours": 37.3524977241693,
+    "longTrades": 4425.0,
+    "longNetPnl": 30995.01858,
+    "longWinRatePct": 59.7514124293785,
+    "shortTrades": 4363.0,
+    "shortNetPnl": 33788.616443,
+    "shortWinRatePct": 53.5411414164566,
+    "maxClosedTradeDrawdown": -5829.910117,
+    "recoveryFactor": 11.1122871061238,
+    "calmarRatio": 1.93550923486492,
+    "dailyAnnualizedSharpe": 1.39563735514488,
+    "dailyAnnualizedSortino": 3.01462595212096,
+    "monthlyAnnualizedSharpe": 1.2836652782276,
+    "sqn": 3.98648936688443,
+    "tradePnlStdDev": 173.352328096554,
+    "profitableDaysPct": 51.0522213561964,
+    "profitableMonthsPct": 58.5714285714286,
+    "bestDay": 9451.205644,
+    "worstDay": -1342.243116,
+    "bestMonth": 13332.091697,
+    "worstMonth": -3091.296228
+  },
+  "annualPnl": [
+    {
+      "year": 2021,
+      "label": "2021",
+      "pnl": 3696.0,
+      "trades": 665,
+      "ytd": false
+    },
+    {
+      "year": 2022,
+      "label": "2022",
+      "pnl": 8865.0,
+      "trades": 749,
+      "ytd": false
+    },
+    {
+      "year": 2023,
+      "label": "2023",
+      "pnl": 13557.0,
+      "trades": 772,
+      "ytd": false
+    },
+    {
+      "year": 2024,
+      "label": "2024",
+      "pnl": 13769.0,
+      "trades": 975,
+      "ytd": false
+    },
+    {
+      "year": 2025,
+      "label": "2025",
+      "pnl": 1797.0,
+      "trades": 2186,
+      "ytd": false
+    },
+    {
+      "year": 2026,
+      "label": "2026 YTD",
+      "pnl": 23100.0,
+      "trades": 3441,
+      "ytd": true
+    }
+  ],
+  "monthlyTotals": [
+    {
+      "month": "January",
+      "pnl": 9126.0
+    },
+    {
+      "month": "February",
+      "pnl": 3594.0
+    },
+    {
+      "month": "March",
+      "pnl": 21360.0
+    },
+    {
+      "month": "April",
+      "pnl": 3816.0
+    },
+    {
+      "month": "May",
+      "pnl": 5233.0
+    },
+    {
+      "month": "June",
+      "pnl": -844.0
+    },
+    {
+      "month": "July",
+      "pnl": -6946.0
+    },
+    {
+      "month": "August",
+      "pnl": 5708.0
+    },
+    {
+      "month": "September",
+      "pnl": 5449.0
+    },
+    {
+      "month": "October",
+      "pnl": 2322.0
+    },
+    {
+      "month": "November",
+      "pnl": 15604.0
+    },
+    {
+      "month": "December",
+      "pnl": 361.0
+    }
+  ],
+  "monthlyByYear": [
+    {
+      "year": 2021,
+      "values": [
+        1680.0,
+        1606.0,
+        1994.0,
+        -516.0,
+        -266.0,
+        1709.0,
+        -2626.0,
+        -388.0,
+        123.0,
+        -1685.0,
+        2992.0,
+        -928.0
+      ]
+    },
+    {
+      "year": 2022,
+      "values": [
+        -1105.0,
+        3461.0,
+        805.0,
+        48.0,
+        408.0,
+        -2670.0,
+        1658.0,
+        2838.0,
+        -642.0,
+        -185.0,
+        2735.0,
+        1512.0
+      ]
+    },
+    {
+      "year": 2023,
+      "values": [
+        5582.0,
+        -69.0,
+        423.0,
+        809.0,
+        314.0,
+        -2185.0,
+        -516.0,
+        559.0,
+        882.0,
+        4572.0,
+        1641.0,
+        1546.0
+      ]
+    },
+    {
+      "year": 2024,
+      "values": [
+        1267.0,
+        -1634.0,
+        4032.0,
+        3730.0,
+        1651.0,
+        -644.0,
+        -122.0,
+        -261.0,
+        -829.0,
+        1975.0,
+        4849.0,
+        -245.0
+      ]
+    },
+    {
+      "year": 2025,
+      "values": [
+        -315.0,
+        -319.0,
+        774.0,
+        581.0,
+        1173.0,
+        -1784.0,
+        -2249.0,
+        -591.0,
+        4873.0,
+        -2209.0,
+        3387.0,
+        -1524.0
+      ]
+    },
+    {
+      "year": 2026,
+      "values": [
+        2017.0,
+        549.0,
+        13332.0,
+        -837.0,
+        1952.0,
+        4730.0,
+        -3091.0,
+        3552.0,
+        1042.0,
+        -146.0,
+        null,
+        null
+      ]
+    }
+  ],
+  "months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+  ]
+}
